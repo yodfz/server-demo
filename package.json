@@ -1,0 +1,12 @@
+{
+  "name": "server-demo",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/yodfz/server-demo.git",
+  "author": "zhaoyifeng <yodfz@qq.com>",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.15.2",
+    "socket.io": "^1.7.3"
+  }
+}
